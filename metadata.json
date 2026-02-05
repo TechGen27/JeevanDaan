@@ -1,0 +1,7 @@
+{
+  "name": "Copy of JeevenDaan – Blood Donation Emergency Platform",
+  "description": "A life-saving bridge connecting urgent blood seekers with verified donors through real-time matching, geolocation, and intelligent notification pipelines.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
